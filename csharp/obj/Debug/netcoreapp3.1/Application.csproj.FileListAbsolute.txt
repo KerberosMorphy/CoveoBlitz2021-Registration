@@ -1,0 +1,16 @@
+/home/bouchards/Downloads/registration/csharp/bin/Debug/netcoreapp3.1/Application
+/home/bouchards/Downloads/registration/csharp/bin/Debug/netcoreapp3.1/Application.deps.json
+/home/bouchards/Downloads/registration/csharp/bin/Debug/netcoreapp3.1/Application.runtimeconfig.json
+/home/bouchards/Downloads/registration/csharp/bin/Debug/netcoreapp3.1/Application.runtimeconfig.dev.json
+/home/bouchards/Downloads/registration/csharp/bin/Debug/netcoreapp3.1/Application.dll
+/home/bouchards/Downloads/registration/csharp/bin/Debug/netcoreapp3.1/Application.pdb
+/home/bouchards/Downloads/registration/csharp/bin/Debug/netcoreapp3.1/CommandLine.dll
+/home/bouchards/Downloads/registration/csharp/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/bouchards/Downloads/registration/csharp/obj/Debug/netcoreapp3.1/Application.csprojAssemblyReference.cache
+/home/bouchards/Downloads/registration/csharp/obj/Debug/netcoreapp3.1/Application.AssemblyInfoInputs.cache
+/home/bouchards/Downloads/registration/csharp/obj/Debug/netcoreapp3.1/Application.AssemblyInfo.cs
+/home/bouchards/Downloads/registration/csharp/obj/Debug/netcoreapp3.1/Application.csproj.CoreCompileInputs.cache
+/home/bouchards/Downloads/registration/csharp/obj/Debug/netcoreapp3.1/Application.csproj.CopyComplete
+/home/bouchards/Downloads/registration/csharp/obj/Debug/netcoreapp3.1/Application.dll
+/home/bouchards/Downloads/registration/csharp/obj/Debug/netcoreapp3.1/Application.pdb
+/home/bouchards/Downloads/registration/csharp/obj/Debug/netcoreapp3.1/Application.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hp8z9Mcm1+efynL2jm6z1STZUl1oCJJoHf6yuPMwUeZ98Ong4m0WZiKoEXvbLV/ymLbCtsE9JWqd4FgSo1WVEw==",
+  "success": true,
+  "projectFilePath": "/home/bouchards/Downloads/registration/csharp/Application.csproj",
+  "expectedPackageFiles": [
+    "/home/bouchards/.nuget/packages/commandlineparser/2.8.0/commandlineparser.2.8.0.nupkg.sha512",
+    "/home/bouchards/.nuget/packages/microsoft.aspnetcore.razor.design/2.2.0/microsoft.aspnetcore.razor.design.2.2.0.nupkg.sha512",
+    "/home/bouchards/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

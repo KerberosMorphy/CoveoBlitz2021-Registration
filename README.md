@@ -10,7 +10,9 @@ Their code is available in [JesseEmond/blitz-2021-chal](https://github.com/Jesse
 ### Final result
 
 **`/dev/null`**:
+
 Score: `224.924697875977`
 
 **`PinaAplle`**:
+
 Score: `224.905838012695`

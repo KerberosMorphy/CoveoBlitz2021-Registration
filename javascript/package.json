@@ -1,0 +1,19 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Blitz Inscription Starterpack",
+  "main": "index.js",
+  "scripts": {
+    "start": "NODE_ENV=production node index.js",
+    "build": "echo \"done\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Coveo",
+  "license": "MIT",
+  "dependencies": {
+    "fast-json": "^1.1.0",
+    "fast-json-parse": "^1.0.3",
+    "fast-json-stringify": "^2.2.9",
+    "yargs": "^16.0.3"
+  }
+}
